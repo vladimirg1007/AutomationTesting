@@ -11,7 +11,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import org.testng.annotations.AfterClass;
 
-public class rich {
+public class rich {  //noobmaster69 was here
   
 	public WebDriver driver;
 	
